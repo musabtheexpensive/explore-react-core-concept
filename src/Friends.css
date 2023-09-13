@@ -1,0 +1,7 @@
+.box{
+    margin: 30px;
+    padding: 20px;
+    border: 3px dashed pink;
+    font-size: larger;
+    text-shadow: yellowgreen
+}
